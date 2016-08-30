@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RowViewTest</string>
+    <string name="CHAT_TOOL_AUDIO">话筒</string>
+    <string name="CHAT_TOOL_CAMERA">camera</string>
+    <string name="CHAT_TOOL_LOCATION">location</string>
+    <string name="CHAT_TOOL_AEMOTION">emotion</string>
+    <string name="CHAT_TOOL_FACE">face</string>
+    <string name="FACE_CONTENT">face-content</string>
+</resources>
